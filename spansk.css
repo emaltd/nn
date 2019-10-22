@@ -1,0 +1,57 @@
+body {
+  margin:0;
+  padding:0;
+}
+.deps {
+    text-align:center;
+    font-family:'Chilanka';
+    color:darkgreen;
+}
+.hyper {
+    font-size:larger;
+    color:darkorange;
+    font-family:'Gayathri';
+    margin-left:30px;
+}
+.profile {
+    font-size:larger;
+    color:darkorange;
+    font-family:'Gayathri';
+    margin-left:70px;
+}
+.follower {
+    font-size:larger;
+    color:darkorange;
+    font-family:'Gayathri';
+    margin-left:55px;
+}
+.image {
+    padding-top:50px;
+    margin-left:5px;
+}
+.want {
+    margin-left:205px;
+    margin-top:-170px;
+    font-weight:900;
+    color:purple;
+}
+.button {
+    padding:5px;
+    margin-bottom: 500px;
+    font-family:'Chilanka';
+    text-decoration:none;
+    background-color:yellow;
+    font-size:larger;
+
+}
+.boot {
+    text-decoration:none;
+    font-family:'Chilanka';
+    margin-left:200px;
+    margin-top:400px;
+}
+
+.Cancún {
+    margin-right:1px;
+    margin-left: 815px;
+}
